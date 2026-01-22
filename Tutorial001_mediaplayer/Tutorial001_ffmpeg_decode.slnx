@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Tutorial001_ffmpeg_decode/Tutorial001_ffmpeg_decode.csproj" />
+  <Project Path="Tutorial_ffmpeg_decode_audio_play/Tutorial_ffmpeg_decode_audio_play.csproj" Id="c6c2444f-fa2e-4cd0-84ee-3ff00144ce7b" />
+</Solution>
