@@ -13,3 +13,7 @@
 /Tutorial001_mediaplayer/Tutorial_ffmpeg_decode_audio_play/bin/Debug/net10.0
 /Tutorial001_mediaplayer/Tutorial_ffmpeg_decode_audio_play/bin/Release/net10.0
 /Tutorial001_mediaplayer/Tutorial_ffmpeg_decode_audio_play/obj
+/Tutorial001_mediaplayer/net_wpf_audioplayer/bin
+/Tutorial001_mediaplayer/net_wpf_audioplayer/obj
+/Tutorial001_mediaplayer/output
+/Tutorial001_mediaplayer/net_wpf_audioplayer/net_wpf_audioplayer.csproj.user
