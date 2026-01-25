@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="net_wpf_audioplayer/net_wpf_audioplayer.csproj" Id="2fdaae75-9411-4ec6-a91d-685bf9a06dbf" />
   <Project Path="Tutorial001_ffmpeg_decode/Tutorial001_ffmpeg_decode.csproj" />
   <Project Path="Tutorial_ffmpeg_decode_audio_play/Tutorial_ffmpeg_decode_audio_play.csproj" Id="c6c2444f-fa2e-4cd0-84ee-3ff00144ce7b" />
 </Solution>
